@@ -1,10 +1,11 @@
 # Shailja Sharma
 <h1 align="center">Hi, I'm Shailja Sharma</h1>
 <h3 align="center">A passionate web developer and game developer</h3>
+- My Portfolio: https://shailjasharma.vercel.app/**
 
 - 🔭 I’m currently working on **a 2D platformer game**
 
-- 🌱 I’m currently learning **Feature Engineering**
+- 🌱 I’m currently learning **Game Development**
 
 - 📫 How to reach me **shailjasharma2307@gmail.com**
 
